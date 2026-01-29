@@ -4,7 +4,7 @@ An advanced Snake game implementation focusing on "Object-Oriented Programming (
 
 ## Features
 1. Smooth Graphics: Flicker-free rendering using targeted cursor updates.
-2. Dynamic Difficulty: Snake speed increases as your score grows.\
+2. Dynamic Difficulty: Snake speed increases as your score grows.
 3. Save System: High scores are persisted to a local text file.
 4. Modern UI: ASCII art menus, sound effects, and directional head icons.
 
